@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(tree:*)",
+      "Bash(node -e:*)",
+      "Bash(find:*)",
+      "Bash(if [ -d \"c:\\workspace\\workers-template\\src\\schemas\" ])",
+      "Bash(then rm -rf \"c:\\workspace\\workers-template\\src\\schemas\")",
+      "Bash(fi)",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
