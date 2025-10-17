@@ -34,7 +34,21 @@ npm install
 - ✅ Cloudflare 바인딩 사용법 (D1, KV, R2)
 - ✅ AI 개발 가이드 (7가지 핵심 규칙)
 
-**AI 개발 시**: 새로운 코드를 작성하기 전 CONTRIBUTING.md의 규칙을 먼저 참조하여 일관성을 유지하세요.
+#### AI 개발자를 위한 안내
+
+AI 어시스턴트(Claude, ChatGPT 등)를 사용할 때는 **첫 번째 명령**으로 다음과 같이 지시하세요:
+
+```
+CONTRIBUTING.md를 읽고 그 규칙에 따라 개발해줘
+```
+
+또는
+
+```
+Read CONTRIBUTING.md first, then follow its guidelines for all code
+```
+
+이렇게 하면 AI가 프로젝트 표준을 이해하고 일관된 코드를 작성합니다.
 
 ## 빠른 시작
 
